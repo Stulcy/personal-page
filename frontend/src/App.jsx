@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import MainPage from "./components/MainPage/MainPage";
 //import MetamaskConnect from "./components/MetamaskConnect/MetamaskConnect";
 import "./App.scss";
