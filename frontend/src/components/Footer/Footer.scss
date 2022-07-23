@@ -1,0 +1,23 @@
+.footer {
+    width: 100%;
+    border-top: #FBB13C solid 1px;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    min-height: 60px;
+    background-color: #3c3837;
+}
+
+h1 {
+    text-align: center;
+}
+
+.icon {
+    color: #FBB13C;
+
+    &:hover {
+        color: #4DA1A9;
+    }
+}
