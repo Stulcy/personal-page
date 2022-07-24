@@ -15,6 +15,7 @@ const Tab = () => {
                         <li>JavaScript</li>
                         <li>C#</li>
                         <li>Java</li>
+                        <li>Solidity</li>
                         <li>Dart</li>
                         <li>SQL</li>
                     </ul>
