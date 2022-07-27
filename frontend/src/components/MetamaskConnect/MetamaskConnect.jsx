@@ -22,7 +22,7 @@ const networks = {
     10000: "Smart Bitcoin Cash",
     3: "Ropsten Testnet",
     4: "Rinkeby Testnet",
-    5: "Görli Testnet",
+    5: "Goerli Testnet",
     6: "Ethereum Classic Testnet Kotti",
     42: "Kovan Testnet",
     59: "EOS Mainnet",
