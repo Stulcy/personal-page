@@ -29,7 +29,8 @@ const networks = {
     65: "OKExChain Testnet",
     941: "PulseChain Testnet",
     31337: "Localhost",
-    1337: "Localhost"
+    1337: "Localhost",
+    80001: "Mumbai"
 };
 
 const MetamaskConnect = () => {
